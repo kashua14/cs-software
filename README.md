@@ -1,2 +1,2 @@
 # cs-software
-Lecture Test
+Lecture Software
